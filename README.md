@@ -42,6 +42,8 @@ Output: manifesto_aaryanverma.txt
 
 
 ## How to Run 
+Note: You have to firstly install the software which you want to use for the scripts.
+Then in the scripts change the author name and software you use
 
 ### Step 1: Clone the repository
 git clone https://github.com/vermaak323/oss-audit-24bey10055.git
